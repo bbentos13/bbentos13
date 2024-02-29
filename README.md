@@ -11,6 +11,12 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+# Contate-me
+
+  <a href="https://www.instagram.com/devbbentos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href ="mailto:steffany.bentoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vit%C3%B3ria-bento-aabb65252/"  target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 ![snake gif](https://github.com/bbentos13/bbentos13/blob/output/github-contribution-grid-snake.gif)
 
 Tecnologia trás sonhos, esperança e inovação, vamos embarcar nessa! 
