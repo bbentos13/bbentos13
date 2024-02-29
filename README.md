@@ -12,7 +12,5 @@
 </div><br/>
 
 
-![snake animation](https://github.com/bbentos13/bbentos13/blob/output/github-contribution-grid-snake2.svg)
-
 
 Tecnologia trás sonhos, esperança e inovação, vamos embarcar nessa! 
